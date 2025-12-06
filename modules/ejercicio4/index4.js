@@ -1,0 +1,1 @@
+export { ordenarPrecios } from './ejercicio4.js';
